@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/Marketplace/Convai/Content/Core/ConvaiBasePlayer.uasset",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/MetaHumans/lexa/BP_lexa.uasset",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/TarotAssets/BP_Tarot1.uasset",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/FirstPerson/Input/IMC_FP_Input.uasset",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/FirstPerson/Input/Actions/IA_Look.uasset",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/FirstPerson/Input/Actions/IA_Jump_FP.uasset",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/FirstPerson/Input/Actions/IA_Jump.uasset",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/FirstPerson/Input/Actions/IA_Look_FP.uasset",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/FirstPerson/Input/Actions/IA_Move_FP.uasset",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/FirstPerson/Input/Actions/IA_Move.uasset",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/FirstPerson/Input/Actions/IA_Shoot_FP.uasset",
+				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/theseeronthehill/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/theseeronthehill/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/theseeronthehill/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/theseeronthehill/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/theseeronthehill/Content/FirstPerson/Input/Actions/IA_Move.uasset",
+				"C:/Users/Slhx89/OneDrive/Documents/Unreal Projects/theseeronthehill/Content/MetaHumans/lexa/BP_lexa.uasset"
+			]
+		}
+	]
+}
