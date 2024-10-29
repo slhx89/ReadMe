@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Sarah/Documents/Sarah/ReadMe/Content/MetaHumans/lexa/BP_lexa.uasset",
+				"C:/Users/Sarah/Documents/Sarah/ReadMe/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/Convai/Content/Core/ConvaiBasePlayer.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/Marketplace/Convai/Content/Core/ConvaiBasePlayer.uasset",
 				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/MetaHumans/lexa/BP_lexa.uasset",
 				"C:/Users/Slhx89/OneDrive/theseeronthehill/Content/TarotAssets/BP_Tarot1.uasset",
